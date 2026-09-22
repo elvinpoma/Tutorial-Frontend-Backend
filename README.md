@@ -1,4 +1,4 @@
-/Comentario/Las palabras que salen con muchas X seguidas es por no poner nombres.
+> **Nota:** Los nombres que aparecen sustituidos por varias "X" se han anonimizado deliberadamente para preservar la privacidad de las personas involucradas.
 
 # Tutorial-Frontend-Backend
 
